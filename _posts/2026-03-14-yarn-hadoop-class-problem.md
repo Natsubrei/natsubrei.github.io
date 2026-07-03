@@ -6,8 +6,6 @@ categories: [解决问题]
 tags: [yarn, hadoop, hbase]
 ---
 
-# YARN 容器无法加载 Hadoop 类问题解决
-
 ## 问题描述
 
 HBase 2.5.11 提交 MapReduce 作业后，YARN 容器启动失败，错误信息：

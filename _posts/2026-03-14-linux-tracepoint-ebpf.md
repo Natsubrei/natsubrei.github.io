@@ -6,8 +6,6 @@ categories: [技术笔记]
 tags: [linux, tracepoint, ebpf, kernel]
 ---
 
-# Linux Tracepoint 与 eBPF 深度解析
-
 > 本文基于 Linux 6.19.8 内核源码分析
 
 ## 引言

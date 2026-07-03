@@ -6,8 +6,6 @@ categories: [解决问题]
 tags: [vscode, copilot, certificate, tls]
 ---
 
-# VS Code Copilot：certificate is not yet valid
-
 ## 问题描述
 
 在使用 VS Code Copilot 扩展时，出现以下错误：

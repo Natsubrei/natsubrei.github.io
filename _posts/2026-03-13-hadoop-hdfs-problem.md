@@ -6,8 +6,6 @@ categories: [解决问题]
 tags: [hadoop, hdfs, yarn, hbase]
 ---
 
-# Hadoop HDFS-17779 问题排查与解决
-
 ## 问题描述
 
 在使用 HBase 2.5.11 的 `Import` 命令导入数据时，YARN 容器启动失败，错误信息如下：

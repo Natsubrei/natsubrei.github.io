@@ -6,8 +6,6 @@ categories: [解决问题]
 tags: [vscode, go, gopls]
 ---
 
-# VSCode 检测不到 Go 环境问题排查与解决
-
 ## 问题描述
 
 在 Linux 系统中使用 VSCode 编辑 Go 项目时，发现 VSCode 无法识别 Go 语言环境，表现为：
