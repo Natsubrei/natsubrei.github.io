@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "在 Linux 服务器上使用 Mihomo 配置命令行代理"
-date: 2026-07-03 12:00:00
+date: 2026-07-03 12:00:00 +0800
 categories: [教程]
 tags: [mihomo, proxy, linux, vpn, clash, 代理]
 ---
