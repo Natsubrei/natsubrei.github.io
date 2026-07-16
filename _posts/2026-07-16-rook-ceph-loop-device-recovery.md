@@ -2,7 +2,7 @@
 layout: post
 title: "Rook-Ceph 使用 Loop 设备的故障排查与开机恢复"
 date: 2026-07-16 10:00:00 +0800
-categories: [教程]
+categories: [解决问题]
 tags: [rook, ceph, kubernetes, loop, storage, systemd, troubleshooting]
 ---
 
